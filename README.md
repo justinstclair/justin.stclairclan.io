@@ -1,2 +1,2 @@
 # stclairclan.io
-my personal website(s)
+my personal website
